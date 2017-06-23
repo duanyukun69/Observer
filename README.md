@@ -11,8 +11,8 @@ WebViewStudy：About WebView，JS、progress、sms、call、email、upload pictu
 # 模块
 主题接口，观察者接口，3D服务号实现类，模拟使用者
 # 模块关系
-tu
-tu
+![微信服务号](https://github.com/duanyukun69/Observer/raw/master/images/1.jpg)<br>
+![观察者模式](https://github.com/duanyukun69/Observer/raw/master/images/2.jpg)
 # 符合观察者模式的代码
 ## 专题接口：Subject.java
 ```Java

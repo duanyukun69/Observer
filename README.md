@@ -1,12 +1,12 @@
 # 开源代码链接
-https://github.com/youlookwhat/DesignPattern/tree/master/app/src/main/java/com/example/jingbin/designpattern/observer<br>
+https://github.com/youlookwhat/DesignPattern/tree/master/app/src/main/java/com/example/jingbin/designpattern/observer
 # 代码任务
 模拟微信3D彩票服务号和订阅者
 # 开发者介绍
 http://jingbin.me/about/<br>
 Jingbin，湖北人，现坐标北京朝阳，Android开发工程师，爱电影，爱学习，爱技术，爱生活，爱开源。
 # 开源项目
-CloudReader：Netease cloud music Ui && Retrofit + RxJava + MVVM-databinding && GankIo、Douban Api.
+CloudReader：Netease cloud music Ui && Retrofit + RxJava + MVVM-databinding && GankIo、Douban Api.<br>
 WebViewStudy：About WebView，JS、progress、sms、call、email、upload picture、textsize setting、Video full-screen playback.
 # 模块
 主题接口，观察者接口，3D服务号实现类，模拟使用者
